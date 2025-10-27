@@ -2,7 +2,7 @@
 <html lang ="en">
 <head>
     <meta charset ="utf -8">
-    <title> Task 01 </title>
+    <title>Task 01</title>
 </head>
 <body>
     <?php
