@@ -1,7 +1,6 @@
 <?php
 function display_menu (){
-    $menu = '
-<ul>
+    $menu = '<ul>
     <li><a href="home.php">Home</a></li>
     <li><a href="product.php">Products</a></li>
     <li><a href="about.php">About Us</a></li>
