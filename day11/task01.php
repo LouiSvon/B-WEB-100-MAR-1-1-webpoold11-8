@@ -8,7 +8,4 @@ function display_menu() {
 </ul>';
     return $menu;
 }
-
-$menu = display_menu();
-echo "menu=" . $menu;
 ?>
